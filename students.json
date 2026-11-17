@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Rahul",
+        "Age": "20",
+        "Course": "Data Science",
+        "Marks": "85"
+    },
+    {
+        "Name": "Aisha",
+        "Age": "21",
+        "Course": "Computer Science",
+        "Marks": "92"
+    },
+    {
+        "Name": "John",
+        "Age": "19",
+        "Course": "Statistics",
+        "Marks": "78"
+    },
+    {
+        "Name": "Sara",
+        "Age": "20",
+        "Course": "Data Science",
+        "Marks": "88"
+    }
+]
